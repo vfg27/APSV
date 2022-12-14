@@ -1,0 +1,8 @@
+es\upm\dit\apsv\traceconsumer1\controller\TraceController.class
+es\upm\dit\apsv\traceconsumer1\model\Trace.class
+es\upm\dit\apsv\traceconsumer1\model\TransportationOrder.class
+es\upm\dit\apsv\traceconsumer1\Repository\TransportationOrderRepository.class
+es\upm\dit\apsv\traceconsumer1\controller\TransportationOrderController.class
+es\upm\dit\apsv\traceconsumer1\TraceManagerApplication$DemoCommandLineRunner.class
+es\upm\dit\apsv\traceconsumer1\TraceManagerApplication.class
+es\upm\dit\apsv\traceconsumer1\Repository\TraceRepository.class
