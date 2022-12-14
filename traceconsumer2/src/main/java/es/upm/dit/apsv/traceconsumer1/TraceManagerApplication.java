@@ -24,8 +24,7 @@ import org.springframework.web.client.HttpClientErrorException;
 
 import org.springframework.web.client.RestTemplate;
 
-
-       
+//hola  
 
 @SpringBootApplication
 public class TraceManagerApplication {
